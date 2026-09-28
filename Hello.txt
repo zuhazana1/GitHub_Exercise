@@ -1,0 +1,3 @@
+Hello, this is my first file.
+I am practicing Git and GitHub.
+This line was added from my local repo.
